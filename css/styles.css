@@ -5,7 +5,10 @@
 img{
     float:center;
     font-size:30px;
-    text-align: center
+    text-align: center;
+    border-radius: 50px;
+    border-style: double;
+
 }
 .row:after{
     content: "";
